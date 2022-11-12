@@ -1,62 +1,35 @@
-<h2 align="center">
-       OREKI MUSIC
-</h2>
+<h1 align="center"><b>OREKI MUSIC 🎸<h2 align="center">
 
-<p align="center">
-  <img src="https://te.legra.ph/file/7ca97bd06c7dffcc6dae7.jpg">
+<h4 align="center">I am an anime themed advanced telegram group management bot with a lot of cool features <br> ..Written with Pyrogram & Telethon..</h4>
+<p align='center'>
+  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
+  <a href="https://github.com/Awesome-Gtash/OrekiRobot-2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-red.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/Awesome-Gtash/OrekiXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Awesome-Gtash/OrekiXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Awesome-Gtash/OrekiXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/Awesome-Gtash/OrekiXMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
+<p align="center"><a href="https://t.me/OrekiXProRobot"><img src="https://te.legra.ph/file/bf426ef1ca910801efbd3.jpg" width="600"></a></p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
-</p>
-
-<h3 align="center">
-    ─「 Deploy To Heroku 」─
-</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Awesome-Gtash/OrekiXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=pink&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a></p>
 
 
-<h3 align="center">
-    ─「 Deploy On Okteto 」─
-</h3>
+**Going to fork this repo? first Hit a star 💫 Then Fork🤞...**
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Awesome-Gtash/OrekiXMusic"><img src="https://img.shields.io/badge/Deploy%20On%20Okteto-black?style=for-the-badge&logo=Okteto" width="220" height="38.45"/></a></p>
 
-<h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
 
-<p align="center">
-<a href="https://telegram.me/PlayBoysDXD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
+## Oreki Is Available on Telegram as [@OrekiXProRobot](https://t.me/Orekixprorobot)
 
-<p align="center">
-<a href="https://telegram.me/HMF_Owner_1"><img src="https://img.shields.io/badge/%20HACKER-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
+## Deploy to Heroku 💌
 
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
+Click The Blue Deploy Button & Fill the vars Then Bot Runs on Heroku!
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Awesome-Gtash/OrekiRobot-2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<p align="center">
-<a href="https://t.me/Tamilchat_Cringe_Guys"> <img src="https://img.shields.io/badge/HMF-Cringe-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
-<a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
-<a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
-<a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
-<a href="https://github.com/AnonymousR1025"> <img src="https://img.shields.io/badge/Anonymous-black?style=for-the-badge&logo=github" alt="Anonymous" /> </a>
-<a href="https://github.com/NotReallyShikhar"> <img src="https://img.shields.io/badge/Shikhar-black?style=for-the-badge&logo=github" alt="Shikhar" /> </a>
-<a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
-</p>
+## Special Creditz
+<a href="https://github.com/Awesome-Gtash"> <img src="https://img.shields.io/badge/myaav boi-black?style=for-the-badge&logo=github" alt="myaav boi" /> </a> - OWNER
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+<a href="https://github.com/Awesome-Prince"> <img src="https://img.shields.io/badge/lovely prince-black?style=for-the-badge&logo=github" alt="lovely prince" /> </a> - SPECIAL
 
+<a href="https://github.com/Awesome-Prince/NekoRobot-3"> <img src="https://img.shields.io/badge/nekorobot-black?style=for-the-badge&logo=github" alt="Neko" /> </a> - BASE
+
+
+## 💘 Join our Support Group & Updates Channel
+<a href="https://t.me/Tiger_SupportChat"><img src="https://img.shields.io/badge/Support 💌-Telegram%20Group-red.svg?logo=telegram"></a>
+<a href="https://t.me/Tiger_Updates"><img src="https://img.shields.io/badge/Updates 📣-Telegram%20Channel-red.svg?logo=telegram"></a>
