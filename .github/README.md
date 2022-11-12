@@ -1,7 +1,7 @@
 <h1 align="center"><b>OREKI MUSIC 🎸<h2 align="center">
 
-<h4 align="center">I am an anime themed advanced telegram group management bot with a lot of cool features <br> ..Written with Pyrogram & Telethon..</h4>
-<p align='center'>
+<h4 align="center">I am an anime themed advanced telegram Music Bot<br>
+  
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   <a href="https://github.com/Awesome-Gtash/OrekiRobot-2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-red.svg?style=flat-square" /> </a>
 </p>
