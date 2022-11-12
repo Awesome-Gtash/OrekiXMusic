@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 OREKI MUSIC 」──
+       OREKI MUSIC
 </h2>
 
 <p align="center">
